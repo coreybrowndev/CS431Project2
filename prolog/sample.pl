@@ -1,0 +1,1 @@
+parent(margaret, charlotte).
